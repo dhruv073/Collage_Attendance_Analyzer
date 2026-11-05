@@ -194,3 +194,10 @@ Minimum Attendance Requirement: 75%
 Institution: Rungta International Skills University
 
 Course: Bachelor of Computer Application (BCA)
+## Project Mentor
+
+**Mentored by:** [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY)
+
+**GitHub:** [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
+
+**Role:** Python Mentor / Technical Guide
